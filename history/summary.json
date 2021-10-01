@@ -1,0 +1,38 @@
+[
+  {
+    "name": "EPP Server",
+    "url": "https://epp.cu.tn",
+    "icon": "https://favicons.githubusercontent.com/epp.cu.tn",
+    "slug": "epp-server",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1636,
+    "timeDay": 1636,
+    "timeWeek": 1636,
+    "timeMonth": 1636,
+    "timeYear": 1636,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Mirror",
+    "url": "https://mirror.cu.tn",
+    "icon": "https://favicons.githubusercontent.com/mirror.cu.tn",
+    "slug": "mirror",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 349,
+    "timeDay": 349,
+    "timeWeek": 349,
+    "timeMonth": 349,
+    "timeYear": 349,
+    "dailyMinutesDown": {}
+  }
+]
