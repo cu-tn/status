@@ -1,7 +1,7 @@
 url: https://epp.cu.tn
-status: up
-code: 200
-responseTime: 9741
-lastUpdated: 2021-10-08T15:49:57.301Z
+status: down
+code: 502
+responseTime: 1356
+lastUpdated: 2021-10-08T15:56:23.472Z
 startTime: Fri Oct 01 2021 00:36:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
