@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/epp.cu.tn.ico",
     "slug": "epp-server",
     "status": "down",
-    "uptime": "7.79%",
+    "uptime": "7.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1574,
+    "time": 1548,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-14": 55,
+      "2023-04-15": 57,
+      "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
@@ -379,8 +380,7 @@
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 1440,
-      "2022-04-16": 1440,
-      "2022-04-15": 1440
+      "2022-04-16": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.cu.tn.ico",
     "slug": "mirror",
     "status": "down",
-    "uptime": "21.70%",
+    "uptime": "21.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "12.20%",
-    "time": 1520,
+    "time": 1521,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1561,
     "dailyMinutesDown": {
-      "2023-04-14": 55,
+      "2023-04-15": 57,
+      "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
@@ -723,8 +724,7 @@
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 1440,
-      "2022-04-16": 1440,
-      "2022-04-15": 1440
+      "2022-04-16": 1440
     }
   }
 ]
